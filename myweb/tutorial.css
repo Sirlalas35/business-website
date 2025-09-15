@@ -1,0 +1,86 @@
+.tomato {
+    background-color: tomato;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.medium-sea-green {
+    background-color: mediumseagreen;
+}
+
+.gray {
+    background-color: grey;
+}
+
+.dodger-blue {background-color: dodgerblue;
+
+}
+
+.violet {
+    background-color: violet;
+}
+
+.light-gray {
+    background-color:lightgray
+}
+
+.border-tomato {
+    border:10px solid tomato; 
+}
+
+.border-dodger-blue {
+    border: 10px solid dodgerblue;
+}
+
+.border-violet {
+    border: 10px solid violet;
+    border-radius: 60px 30px 20px 15px;
+    border-style: dashed;
+    margin-left: 30px;
+    margin-top: 60px;
+    margin-right: 50px;
+    margin-bottom: 40px;
+    
+} 
+
+body {
+    background-color: rgb(157, 247, 247);
+    opacity: 0.5;
+    background-image: url(pngwing.com\ \(3\).png);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 150px;
+    background-color: white;
+}
+
+li a {
+    display: block;
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none
+    
+}
+
+li a:hover {
+    background-color: crimson;
+    color: white;
+}
+li a:active {
+    background-color: yellowgreen;
+}
+
+li {
+    text-align: center;
+}
+ .navbar { 
+color:rgb(94, 240, 9);
+ }
+
+
+ 
